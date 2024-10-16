@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 main_hello
-=======
-qwqwq
-hello
->>>>>>> mylocal
+push_hello
